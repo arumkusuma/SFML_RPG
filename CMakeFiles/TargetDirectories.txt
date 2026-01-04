@@ -1,0 +1,3 @@
+/home/ihsan/SFML_RPG-master/SFML_RPG/CMakeFiles/GameKelompok.dir
+/home/ihsan/SFML_RPG-master/SFML_RPG/CMakeFiles/edit_cache.dir
+/home/ihsan/SFML_RPG-master/SFML_RPG/CMakeFiles/rebuild_cache.dir
